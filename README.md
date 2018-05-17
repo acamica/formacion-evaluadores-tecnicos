@@ -34,7 +34,7 @@ Para completar el curso de formación, hace las clases en el siguiente orden:
 *Clase 5:* [Solución: corrige un código][10]
 
 
-[1]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/convertite-en-evaluador.md
+
 [2]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/flujo-de-entregas.md
 [3]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/recepcion-y-confirmacion.md
 [4]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/el-checklist-de-evaluacion.md
