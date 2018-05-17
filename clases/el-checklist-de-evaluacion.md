@@ -6,6 +6,8 @@ Por eso, en Acámica, creamos los checklists, que no es más que un listado de c
 
 Optamos por usar este mecanismo porque creemos que es una herramienta dinámica, concreta, rápida y equitativa. De esta manera podemos hacer una buena y detenida evaluación, ¡en tiempo récord!
 
+Cada proyecto tiene su propio checklist de evaluación. Podés ver todos los checklists de la carrera de Desarrollo Web Full Stack [en este repo](https://github.com/acamica/checklists-fullstack)
+
 ## Cómo usarlos para calificar y evaluar
 
 Con el checklist en mano, está todo listo para leer el código del proyecto y analizarlo en detalle.
