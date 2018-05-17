@@ -10,7 +10,7 @@ Optamos por usar este mecanismo porque creemos que es una herramienta dinámica,
 
 Con el checklist en mano, está todo listo para leer el código del proyecto y analizarlo en detalle.
 
-> Antes de empezar a corregir, chequeá que los archivos entregados sean los correctos antes de evaluar. Dentro del checklist vas a encontrar los **validadores** bajo el título *"Condiciones para entregae*". 
+> Antes de empezar a corregir, chequeá que los archivos entregados sean los correctos antes de evaluar. Dentro del checklist vas a encontrar los **validadores** bajo el título *"Condiciones para entregar*". 
 
 Para utilizar el checklist en tu evaluación, simplemente tenés que leer cada item y marcar si el proyecto cumple o no cada condición.
 
