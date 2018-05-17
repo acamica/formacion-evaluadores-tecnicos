@@ -50,5 +50,8 @@ Pensá qué forma de evaluar te parece la mejor y se adapta a tu manera de escri
 
 > Nota: Si querés saber más de esta herramienta y de otros recursos para promover el análisis y el pensamiento crítico, podés chequear la [web de Ron Ritchhart][2], investigador asociado del _Project Zero_ de la Universidad de Harvard.
 
+:leftwards_arrow_with_hook: Volver al [listado][3] de clases.
+
 [1]: https://s-media-cache-ak0.pinimg.com/originals/f8/34/95/f83495653711def16ca24d3b6df19518.png
 [2]: http://www.ronritchhart.com/ronritchhart.com/COT_Resources.html
+[3]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/README.md
