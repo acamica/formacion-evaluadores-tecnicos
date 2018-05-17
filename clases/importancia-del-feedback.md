@@ -17,3 +17,6 @@ En términos generales, una buena retroalimentación:
 - Facilita el desarrollo de la auto-evaluación (reflexión) en el aprendizaje.
 - Fomenta el diálogo entre profesores y compañeros en torno al aprendizaje
 - Motiva a los/as estudiantes a seguir aprendiendo y fomenta su autoestima.
+
+:leftwards_arrow_with_hook: Volver al [listado][3] de clases.
+[3]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/README.md
