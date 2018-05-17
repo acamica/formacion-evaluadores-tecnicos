@@ -20,5 +20,5 @@ Una vez que hayas terminado de hacer la revisión en el Gist Secreto, tenés que
 
 **_Incluimos el enlace del formulario en la descripción del canal `#01-inbox` del Slack de evaluación técnica, para que puedas tenerlo a mano._**
 
-[1]: https://acamica.typeform.com/to/cSfWxe
+[1]: https://acamica.typeform.com/to/a8n4OG
 [2]: https://j.gifs.com/3lx1gQ.gif
