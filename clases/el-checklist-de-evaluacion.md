@@ -20,9 +20,7 @@ Para la calificación hay tres caminos posibles:
 - **Aprobado**: el estudiante alcanza todas las _condiciones mínimas_ de aprobación.
 - **Hacker**: el estudiante alcanza todas las _condiciones para categoría Hacker_, aquellas que definen que un proyecto es excelente.
 
-![][1]
-
 :leftwards_arrow_with_hook: Volver al [listado][3] de clases.
 
 [3]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/README.md
-[1]: https://j.gifs.com/j29nny.gif
+
