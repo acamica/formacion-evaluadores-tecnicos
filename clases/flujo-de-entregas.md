@@ -36,4 +36,7 @@ En esta instancia:
 
 El evaluador/a técnico envía el Gist corregido por typeform al estudiante para que reciba sus correcciones.
 
+:leftwards_arrow_with_hook: Volver al [listado][3] de clases.
+
+[3]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/README.md
 [1]: https://drive.google.com/drive/folders/0B6zpWUWglm5HREp6SjFLRVY2dFk
