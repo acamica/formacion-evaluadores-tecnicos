@@ -5,7 +5,6 @@ Para completar el curso de formación, hace las clases en el siguiente orden:
 **Unidad 1: Entrando al equipo de evaluación**
 <br>
 **Clase 1:** [Convertite en evaluador][1]
-
 <br>
 <br>
 **Unidad 2: Revisando el proyecto**
@@ -17,7 +16,6 @@ Para completar el curso de formación, hace las clases en el siguiente orden:
 **Clase 3:** [El Checklist de evaluación][4]
 <br>
 **Clase 4:** [Devolución y corrección][4]
-
 <br>
 <br>
 **Unidad 3: Cómo hacer una devolución de calidad**
