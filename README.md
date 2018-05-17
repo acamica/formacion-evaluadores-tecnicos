@@ -34,13 +34,13 @@ Para completar el curso de formación, hace las clases en el siguiente orden:
 *Clase 5:* [Solución: corrige un código][10]
 
 
-[1]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/convertite-en-evaluador.md
-[2]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/flujo-de-entregas.md
-[3]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/recepcion-y-confirmacion.md
-[4]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/el-checklist-de-evaluacion.md
-[5]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/devolucion.md
-[6]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/importancia-del-feedback.md
-[7]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/como-hacer-las-mejores-devoluciones.md
-[8]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/que-hace-buena-a-una-devolucion.md
-[9]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/actividad-corregi-un-codigo.md
-[10]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/solucion-corregi-un-codigo.md
+[1]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/convertite-en-evaluador.md
+[2]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/flujo-de-entregas.md
+[3]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/recepcion-y-confirmacion.md
+[4]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/el-checklist-de-evaluacion.md
+[5]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/devolucion.md
+[6]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/importancia-del-feedback.md
+[7]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/como-hacer-las-mejores-devoluciones.md
+[8]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/que-hace-buena-a-una-devolucion.md
+[9]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/actividad-corregi-un-codigo.md
+[10]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/solucion-corregi-un-codigo.md
