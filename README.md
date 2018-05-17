@@ -2,12 +2,14 @@
 
 Para completar el curso de formación, hace las clases en el siguiente orden:
 
-**Unidad 1: Entrando al equipo de evaluación**
+:small_blue_diamond:**Unidad 1: Entrando al equipo de evaluación**
+<br>
 <br>
 *Clase 1:* [Convertite en evaluador][1]
 <br>
 <br>
-**Unidad 2: Revisando el proyecto**
+:small_blue_diamond:**Unidad 2: Revisando el proyecto**
+<br>
 <br>
 *Clase 1:* [Flujo de entregas y revisión de proyectos][2]
 <br>
@@ -18,7 +20,8 @@ Para completar el curso de formación, hace las clases en el siguiente orden:
 *Clase 4:* [Devolución y corrección][4]
 <br>
 <br>
-**Unidad 3: Cómo hacer una devolución de calidad**
+:small_blue_diamond:**Unidad 3: Cómo hacer una devolución de calidad**
+<br>
 <br>
 *Clase 1:* [La importancia del feedback][6]
 <br>
