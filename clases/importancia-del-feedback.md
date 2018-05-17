@@ -19,4 +19,5 @@ En términos generales, una buena retroalimentación:
 - Motiva a los/as estudiantes a seguir aprendiendo y fomenta su autoestima.
 
 :leftwards_arrow_with_hook: Volver al [listado][3] de clases.
+
 [3]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/README.md
