@@ -5,7 +5,7 @@ Para completar el curso de formación, hace las clases en el siguiente orden:
 :small_blue_diamond:**Unidad 1: Entrando al equipo de evaluación**
 <br>
 <br>
-*Clase 1:* <a href="https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/convertite-en-evaluador.md" target="_blank">Convertite en evaluador</a>
+*Clase 1:* [Convertite en evaluador][1]
 <br>
 <br>
 :small_blue_diamond:**Unidad 2: Revisando el proyecto**
@@ -34,7 +34,7 @@ Para completar el curso de formación, hace las clases en el siguiente orden:
 *Clase 5:* [Solución: corrige un código][10]
 
 
-
+[1]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/convertite-en-evaluador.md
 [2]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/flujo-de-entregas.md
 [3]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/recepcion-y-confirmacion.md
 [4]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/el-checklist-de-evaluacion.md
