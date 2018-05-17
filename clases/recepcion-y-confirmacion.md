@@ -17,4 +17,7 @@ Cosas importantes a tener en cuenta:
 
 En caso que el proyecto recibido no cuente con todos los archivos necesarios para la entrega, **el/la evaluador deberá calificarlo como Incompleto en el formulario de corrección**, sin corregirse. _Dichos proyectos no son tomados como válidos para el pago, ya que no deben ser corregidos._
 
+:leftwards_arrow_with_hook: Volver al [listado][3] de clases.
+
+[3]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/README.md
 [1]: https://j.gifs.com/66A8yR.gif
