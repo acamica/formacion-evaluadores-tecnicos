@@ -2,18 +2,44 @@
 
 Para completar el curso de formación, hace las clases en el siguiente orden:
 
-**Clase 1:** Convertite en evaluador
+**Unidad 1: Entrando al equipo de evaluación**
 <br>
-**Clase 2:** Convertite en evaluador
+**Clase 1:** [Convertite en evaluador][1]
+
 <br>
-**Clase 3:** Convertite en evaluador
 <br>
-**Clase 4:** Convertite en evaluador
+**Unidad 2: Revisando el proyecto**
 <br>
-**Clase 5:** Convertite en evaluador
+**Clase 1:** [Flujo de entregas y revisión de proyectos][2]
 <br>
-**Clase 6:** Convertite en evaluador
+**Clase 2:** [Recepción y confirmación de proyectos][3]
 <br>
-**Clase 7:** Convertite en evaluador
+**Clase 3:** [El Checklist de evaluación][4]
 <br>
-**Clase 8:** Convertite en evaluador
+**Clase 4:** [Devolución y corrección][4]
+
+<br>
+<br>
+**Unidad 3: Cómo hacer una devolución de calidad**
+<br>
+**Clase 1:** [La importancia del feedback][6]
+<br>
+**Clase 2:** [Cómo hacer las mejores devoluciones][7]
+<br>
+**Clase 3:** [Qué hace buena a una devolución][8]
+<br>
+**Clase 4:** [Actividad: corrige un código][9]
+<br>
+**Clase 5:** [Solución: corrige un código][10]
+
+
+[1]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/convertite-en-evaluador.md
+[2]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/flujo-de-entregas.md
+[3]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/recepcion-y-confirmacion.md
+[4]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/el-checklist-de-evaluacion.md
+[5]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/devolucion.md
+[6]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/importancia-del-feedback.md
+[7]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/como-hacer-las-mejores-devoluciones.md
+[8]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/que-hace-buena-a-una-devolucion.md
+[9]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/actividad-corregi-un-codigo.md
+[10]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/solucion-corregi-un-codigo.md
