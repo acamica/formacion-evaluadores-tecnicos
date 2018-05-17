@@ -2,7 +2,7 @@
 
 Después de ver estrategias y ejemplos de buenas correcciones, poné a prueba tus habilidades en evaluación técnica.
 
-**Analizá el código del proyecto Rompecabezas resuelto por un estudiante, y hacé las correcciones y devolución necesaria para _hacer de la evaluación parte del aprendizaje._**
+**Analizá el código del proyecto Home Banking resuelto por un estudiante, y hacé las correcciones y devolución necesaria para _hacer de la evaluación parte del aprendizaje._**
 
 [Descargá el código acá][1]
 
