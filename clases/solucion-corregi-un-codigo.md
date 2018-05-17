@@ -10,4 +10,7 @@ Esta es una posible solución, y no la única. La elegimos porque nos parece un 
 
 Compará con tu propia revisión del código, analizá las fortalezas y aspectos a mejorar de tu devolución, y pensá cómo podrías hacerlo aún mejor en el futuro. Si tenés dudas, escribinos.
 
+:leftwards_arrow_with_hook: Volver al [listado][3] de clases.
+
+[3]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/README.md
 [1]: https://gist.github.com/mcardozo/333c11aa16027e18c15f9f45a5be79a9
