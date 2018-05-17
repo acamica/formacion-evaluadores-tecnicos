@@ -22,4 +22,7 @@ Para la calificación hay tres caminos posibles:
 
 ![][1]
 
+:leftwards_arrow_with_hook: Volver al [listado][3] de clases.
+
+[3]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/README.md
 [1]: https://j.gifs.com/j29nny.gif
