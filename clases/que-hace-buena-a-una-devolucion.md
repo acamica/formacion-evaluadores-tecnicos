@@ -41,6 +41,9 @@ Aunque parezcan largas, todas estas evaluaciones están hechas en menos de 24 ho
 
 **_¡Animate a hacer las mejores correcciones y sumarte al salón de la fama de Evaluación Técnica de Acámica!_**
 
+:leftwards_arrow_with_hook: Volver al [listado][4] de clases.
+
+[4]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/README.md
 [1]: https://gist.github.com/alelevy15/706485ac0617e72443289defa87b054e
 [2]: https://gist.github.com/sizcovich/bf0e26a7fd774d6506f2c001c8ee93a1
 [3]: https://gist.github.com/mcardozo/0ef48212cb820c8d87f113af7cc81151
