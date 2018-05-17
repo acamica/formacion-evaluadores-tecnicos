@@ -20,5 +20,8 @@ Si tenés alguna duda, podés encontrarnos por Slack o por mail. Siempre estamos
 
 > Nota: Cuando te decimos que la evaluación es lo más importante, no es solo para convencerte. Está comprobado empíricamente que la evaluación formativa es el factor de la enseñanza que más afecta (positivamente) el aprendizaje. El feedback está cuarto en el ranking. Si querés saber más, podés leer el _Ranking de Hattie_, del programa _Visible Learning_, [acá][2].
 
+:leftwards_arrow_with_hook: Volver al [listado][3] de clases.
+
+[3]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/README.md
 [1]: https://cimg.acamica.com/acamicaplus/plus-6.jpg
 [2]: https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/hattie-ranking-teaching-effects/
