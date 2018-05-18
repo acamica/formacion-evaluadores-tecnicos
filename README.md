@@ -17,7 +17,7 @@ Para completar el curso de formación, hace las clases en el siguiente orden:
 <br>
 *Clase 3:* [El Checklist de evaluación][4]
 <br>
-*Clase 4:* [Devolución y corrección][4]
+*Clase 4:* [Devolución y corrección][5]
 <br>
 <br>
 :small_blue_diamond:**Unidad 3: Cómo hacer una devolución de calidad**
