@@ -12,7 +12,7 @@ Este es un proyecto real resuelto por uno de nuestros estudiantes. Pensá la mej
 
 En la clase siguiente vas a encontrar una posible solución, la devolución que hizo uno de nuestros evaluadores. Te recomendamos hacer tu propia corrección antes de mirar la solución, para no sesgar tu actividad.
 
-Cuando termines, te invitamos a compartir tu solución con nosotros y contarnos tu experiencia en esta primera evaluación. **Enviá el link al Gist con tu corrección por mail a `paula.alcala@acamica.com`**.
+Cuando termines, te invitamos a compartir tu solución con nosotros y contarnos tu experiencia en esta primera evaluación. **Enviá el link al Gist con tu corrección por mail a `alejandra.levy@acamica.com`**.
 
 :leftwards_arrow_with_hook: Volver al [listado][3] de clases.
 
