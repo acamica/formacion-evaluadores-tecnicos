@@ -12,15 +12,14 @@ Cada proyecto tiene su propio checklist de evaluación. Podés ver todos los che
 
 Con el checklist en mano, está todo listo para leer el código del proyecto y analizarlo en detalle.
 
-> Antes de empezar a corregir, chequeá que los archivos entregados sean los correctos antes de evaluar. Dentro del checklist vas a encontrar los **validadores** bajo el título *"Condiciones para entregar*". 
+> Antes de empezar a corregir, chequeá que los archivos entregados sean los correctos antes de evaluar. Dentro del checklist, revisa la sección *"Condiciones para entregar*". Si se cumplen, puedes avanzar con la evaluación 
 
 Para utilizar el checklist en tu evaluación, simplemente tenés que leer cada item y marcar si el proyecto cumple o no cada condición.
 
-Para la calificación hay tres caminos posibles:
+Para la calificación hay solo dos posibilidades:
 
 - **A revisar**: el estudiante no alcanza una o más de las condiciones mínimas de aprobación.
 - **Aprobado**: el estudiante alcanza todas las _condiciones mínimas_ de aprobación.
-- **Hacker**: el estudiante alcanza todas las _condiciones para categoría Hacker_, aquellas que definen que un proyecto es excelente.
 
 :leftwards_arrow_with_hook: Volver al [listado][3] de clases.
 
