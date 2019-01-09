@@ -1,42 +1,23 @@
 ## El proceso de evaluación en Acámica
 
-Para que puedas tener claro cómo vas a desempeñar tu rol, te dejamos un paso a paso breve y conciso que enumera cada etapa del camino entre que un estudiante entrega el proyecto y recibe su devolución. Como parte del equipo de evaluación, vas a estar presente en cada paso del proceso.
+Cuando un/a estudiante estudia en Acámica, ya sea en modalidad online o semi-presencial, es parte de una comisión y tiene un equipo de mentores que le dan seguimiento en todo su proceso de aprendizaje. Las instancias de aprendizaje de un/a estudiante, en general, son:
+- Avanzar en contenido teórico en la plataforma de Acámica, con videos, texto y actividades interactivas
+- Clases semanales con su comisión, lideradas por los/as mentores
+- Trabajar en sus proyectos, puede ser en clase o en remoto, siguiendo las consignas existentes en la plataforma
 
-> Este es un resumen del proceso completo. En las próximas clases vamos a ver algunos en detalle.
+A medida que avanzan en la carrera, los/as estudiantes entregan avances de sus proyectos (pueden ser entregas parciales o completas de un proyecto) a través de la plataforma de Acámica. Estas llegan a un **pool común de evaluación técnica en la plataforma de Acámica**. Ahí nuestro equipo de evaluadores/as puede ir tomando proyectos para corregir según su disponibilidad, se toman por orden de llegada.
 
-### Paso 0: Familiarización con los proyectos
+## Pasos de la evaluación técnica
 
-Para evaluar el código de los/as estudiantes, **es importante que empieces por conocer en detalle cada proyecto de la carrera**.
+**1- Familiarizarse con la carrera:** Podés leer el plan de estudio, preguntarle a alguien del equipo de Acámica, y -una vez que ingreses como evaluador/a- ver los contenidos que aprenden los estudiantes.
+**2- Revisar el pool de evaluaciones:** Cada vez que un nuevo proyecto se manda a revisión, se actualiza en una tabla del sistema de evaluación de Acámica (el pool de evaluación). Además, llega aviso por un grupo de Slack privado para evaluadores/as.
+**3- Tomar un proyecto:** Para evaluar un proyecto, hay que tomarlo previamente simplemente haciendo un click en la plataforma. Una vez que un/a evaluadora toma un proyecto, lo reserva y nadie más puede tomarlo excepto que el/la evaluadora decida liberarlo. Una vez que se toma un proyecto, hay hasta 48hs para escribir la devolución y enviarla a través de la plataforma de Acámica.
+**4- Corregir:** Corregir implica revisar en detalle el producto del/la estudiante y dar una **devolución por escrito** en formato Markdown. Cada proyecto se califica como aprobado o a revisar si hay aspectos a mejorar.
 
-En una carpeta de Drive, actualizamos constantemente información clave sobre cada proyecto específico para la evaluación: podés encontrar las guías paso a paso que siguen los estudiantes para hacer el resolver el proyecto, el código de una solución posible, y el checklist de evaluación. Encontrá la carpeta en [este link][1].
+A fin de mes, se paga a cada evaluador/a un monto fijo por cada proyecto evaluado. Estos dependen de la carrera y del largo del proyecto a corregir.
 
-### Paso 1: Recepción de proyectos y confirmación
+:right_arrow: Avanzar a [los criterios de evaluación][1]
+:leftwards_arrow_with_hook: Volver al [listado][2] de contenido.
 
-El estudiante hace el proyecto y lo entrega a través de la plataforma. Instantáneamente, llega al canal `#01-inbox` de Slack la notificación de que hay un proyecto en espera para ser corregido.
-
-Para tomar ese proyecto y evaluarlo, un/a evaluador tiene que responder "Confirmo revisión!". Estate atento/a a Slack y confirma todos los proyectos que quieras evaluar.
-
-### Paso 2: Validación
-
-Quien confirmó la corrección deberá descargar el zip con el proyecto del estudiante y validar que la carpeta y sus documentos son correctos, y que el proyecto está en condiciones de ser evaluado.
-
-Este paso es central para determinar proyectos inválidos y no perder tiempo ni recursos en entregas incorrectas. Vas a encontrar el validador de cada proyecto en el checklist de evaluación del mismo.
-
-### Paso 3: Corrección y evaluación
-
-Acá empieza la acción. Una vez validado el proyecto, se evalúa en Gist.
-
-En esta instancia:
-
-- Se revisa el **checklist de evaluación** para ver los requisitos de aprobación del proyecto.
-- Se lee en detalle el código y se revisa si cumple con todos los requisitos de aprobación
-- Se da una **devolución detallada** por escrito de los aspectos positivos y a mejorar (_feedback_). 
-
-### Paso 4: Devolución
-
-El evaluador/a técnico envía el Gist corregido por typeform al estudiante para que reciba sus correcciones.
-
-:leftwards_arrow_with_hook: Volver al [listado][3] de clases.
-
-[3]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/README.md
-[1]: https://drive.google.com/drive/folders/0B6zpWUWglm5HREp6SjFLRVY2dFk
+[2]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/README.md
+[1]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/el-checklist-de-evaluacion.md
