@@ -9,10 +9,10 @@ A medida que avanzan en la carrera, los/as estudiantes entregan avances de sus p
 
 ## Pasos de la evaluación técnica
 
-**1- Familiarizarse con la carrera:** Podés leer el plan de estudio, preguntarle a alguien del equipo de Acámica, y -una vez que ingreses como evaluador/a- ver los contenidos que aprenden los estudiantes.
-**2- Revisar el pool de evaluaciones:** Cada vez que un nuevo proyecto se manda a revisión, se actualiza en una tabla del sistema de evaluación de Acámica (el pool de evaluación). Además, llega aviso por un grupo de Slack privado para evaluadores/as.
-**3- Tomar un proyecto:** Para evaluar un proyecto, hay que tomarlo previamente simplemente haciendo un click en la plataforma. Una vez que un/a evaluadora toma un proyecto, lo reserva y nadie más puede tomarlo excepto que el/la evaluadora decida liberarlo. Una vez que se toma un proyecto, hay hasta 48hs para escribir la devolución y enviarla a través de la plataforma de Acámica.
-**4- Corregir:** Corregir implica revisar en detalle el producto del/la estudiante y dar una **devolución por escrito** en formato Markdown. Cada proyecto se califica como aprobado o a revisar si hay aspectos a mejorar.
+**1. Familiarizarse con la carrera:** Podés leer el plan de estudio, preguntarle a alguien del equipo de Acámica, y -una vez que ingreses como evaluador/a- ver los contenidos que aprenden los estudiantes.
+**2. Revisar el pool de evaluaciones:** Cada vez que un nuevo proyecto se manda a revisión, se actualiza en una tabla del sistema de evaluación de Acámica (el pool de evaluación). Además, llega aviso por un grupo de Slack privado para evaluadores/as.
+**3. Tomar un proyecto:** Para evaluar un proyecto, hay que tomarlo previamente simplemente haciendo un click en la plataforma. Una vez que un/a evaluadora toma un proyecto, lo reserva y nadie más puede tomarlo excepto que el/la evaluadora decida liberarlo. Una vez que se toma un proyecto, hay hasta 48hs para escribir la devolución y enviarla a través de la plataforma de Acámica.
+**4. Corregir:** Corregir implica revisar en detalle el producto del/la estudiante y dar una **devolución por escrito** en formato Markdown. Cada proyecto se califica como aprobado o a revisar si hay aspectos a mejorar.
 
 A fin de mes, se paga a cada evaluador/a un monto fijo por cada proyecto evaluado. Estos dependen de la carrera y del largo del proyecto a corregir.
 
