@@ -50,7 +50,9 @@ Si tenés alguna duda, podés encontrarnos por Slack o por mail. Siempre estamos
 <br>
 *Clase 3:* [Qué hace buena a una devolución][8]
 <br>
+<br>
 :small_blue_diamond:**Unidad 3: Actividad práctica para ingresar al equipo**
+<br>
 <br>
 *Desarrollo Web Full Stack*: [Corrige un código][9]
 <br>
