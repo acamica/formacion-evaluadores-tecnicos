@@ -3,12 +3,12 @@
 Si estás leyendo esto, es porque te interesa sumarte al equipo de Evaluación Técnica de Acámica. Esta es una introducción para evaluar en todas nuestras carreras, más allá del área de tecnología específica en la que vayas a evaluar.
 
 En este repo vas a encontrar dos secciones:
-1. Evaluación en Acámica: fundamentos pedagógicos, metodología de trabajo, buenas prácticas
-2. Formas de evaluar en cada carrera: Desarrollo Full Stack, Front-end Avanzado en React, Diseño UX/UI, Data Science.
+1. Evaluación en Acámica: flujo de entrega y evaluaciones, metodología de trabajo, buenas prácticas
+2. Sugerencias para evaluar en cada carrera: Desarrollo Full Stack, Front-end Avanzado en React, Diseño UX/UI, Data Science.
 
-Al final de este proceso y para ingresar efectivamente como evaluador o evaluadora, vas a encontrar una actividad práctica que deberás enviar por mail al equipo de Acámica.
+Al final,para ingresar efectivamente como evaluador o evaluadora, vas a encontrar una actividad práctica que deberás enviar por mail al equipo de Acámica.
 
-La revisión de proyectos es nuestro pilar fundamental para formar el talento del futuro. ¡Gracias por sumarte!
+*La revisión de proyectos es nuestro pilar fundamental para formar el talento del futuro. ¡Gracias por sumarte!*
 
 ![][1]
 
@@ -49,6 +49,9 @@ Si tenés alguna duda, podés encontrarnos por Slack o por mail. Siempre estamos
 *Clase 2:* [Cómo hacer las mejores devoluciones][7]
 <br>
 *Clase 3:* [Qué hace buena a una devolución][8]
+<br>
+<br>
+*Tips por carrera:* [Desarrollo Full Stack], [Diseño UX/UI], [Data Science], [Front-end Avanzado en React]
 <br>
 <br>
 :small_blue_diamond:**Actividad práctica para ingresar al equipo**
