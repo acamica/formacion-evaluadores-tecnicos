@@ -14,7 +14,7 @@ Al final,para ingresar efectivamente como evaluador o evaluadora, vas a encontra
 
 ## Incluyendo a la evaluación en el aprendizaje
 
-Aunque muchas veces se usa solo para validar y aprobar a los/as estudiantes, **[está comprobado que la evaluación es una de las instancias que más efecto tiene sobre el aprendizaje](2)**. Es el momento en el que cada estudiante puede poner en práctica sus conocimientos y habilidades, reconocer sus errores y conocer un camino posible para mejorar.
+Aunque muchas veces se usa solo para validar y aprobar a los/as estudiantes, **[está comprobado que la evaluación es una de las instancias que más efecto tiene sobre el aprendizaje](11)**. Es el momento en el que cada estudiante puede poner en práctica sus conocimientos y habilidades, reconocer sus errores y conocer un camino posible para mejorar.
 
 Como parte de la propuesta de enseñanza online y semi-presencial de Acámica, queremos aprovechar el espacio de evaluación para ofrecer enseñanzas contextualizadas y significativas a nuestros estudiantes. Por eso, definimos una metodología de aprendizaje por proyectos, poniéndo a la práctica como eje del contenido y a los/as estudiantes en el centro de la enseñanza.
 
@@ -25,7 +25,7 @@ En las próximas clases vas a encontrar una descripción detallada del proceso d
 Si tenés alguna duda, podés encontrarnos por Slack o por mail. Siempre estamos disponibles para escuchar sugerencias y opiniones.
 
 [1]: https://cimg.acamica.com/acamicaplus/plus-6.jpg
-[2]: https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/hattie-ranking-teaching-effects/
+[11]: https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/hattie-ranking-teaching-effects/
 
 # Índice de contenidos
 
