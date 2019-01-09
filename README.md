@@ -34,11 +34,9 @@ Si tenés alguna duda, podés encontrarnos por Slack o por mail. Siempre estamos
 <br>
 *Clase 1:* [Flujo de entregas y revisión de proyectos][2]
 <br>
-*Clase 2:* [Recepción y confirmación de proyectos][3]
+*Clase 2:* [Criterios de evaluación: los checklists][4]
 <br>
-*Clase 3:* [El Checklist de evaluación][4]
-<br>
-*Clase 4:* [Devolución y corrección][5]
+*Clase 3:* [Devolución y corrección][5]
 <br>
 <br>
 :small_blue_diamond:**Unidad 2: Cómo hacer una devolución de calidad**
@@ -68,7 +66,6 @@ Si tenés alguna duda, podés encontrarnos por Slack o por mail. Siempre estamos
 
 [1]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/convertite-en-evaluador.md
 [2]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/flujo-de-entregas.md
-[3]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/recepcion-y-confirmacion.md
 [4]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/el-checklist-de-evaluacion.md
 [5]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/devolucion.md
 [6]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/importancia-del-feedback.md
