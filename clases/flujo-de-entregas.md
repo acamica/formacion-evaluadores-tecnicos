@@ -16,7 +16,8 @@ A medida que avanzan en la carrera, los/as estudiantes entregan avances de sus p
 
 A fin de mes, se paga a cada evaluador/a un monto fijo por cada proyecto evaluado. Estos dependen de la carrera y del largo del proyecto a corregir.
 
-:right_arrow: Avanzar a [los criterios de evaluación][1]
+:arrow_right: Avanzar a [los criterios de evaluación][1]
+<br>
 :leftwards_arrow_with_hook: Volver al [listado][2] de contenido.
 
 [2]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/README.md
