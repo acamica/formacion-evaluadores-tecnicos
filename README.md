@@ -1,14 +1,20 @@
 # Curso de formación para evaluadores/as técnicos :rocket:
 
-Si estás leyendo esto, es porque te interesa sumarte al equipo de Evaluación Técnica de Acámica. Armamos este repo para que entiendas cómo funciona el proceso de corrección y evaluación de proyectos en nuestras carreras. Pero además, queremos que entiendas los fundamentos pedagógicos y técnicos detrás del proceso, y que puedas aprender cómo hacer evaluaciones de calidad.
+Si estás leyendo esto, es porque te interesa sumarte al equipo de Evaluación Técnica de Acámica. Esta es una introducción para evaluar en todas nuestras carreras, más allá del área de tecnología específica en la que vayas a sumarte.
 
-Para formar el talento del futuro, tenemos que acompañar a nuestros estudiantes en el proceso. ¡Gracias por sumarte!
+En este repo vas a encontrar dos secciones:
+1- Evaluación en Acámica: fundamentos pedagógicos, metodología de trabajo, buenas prácticas
+2- Formas de evaluar en cada carrera: Desarrollo Full Stack, Front-end Avanzado en React, Diseño UX/UI, Data Science.
+
+Al final de este proceso y para ingresar efectivamente como evaluador o evaluadora, vas a encontrar una actividad práctica que deberás enviar por mail al equipo de Acámica.
+
+La revisión de proyectos es nuestro pilar fundamental para formar el talento del futuro. ¡Gracias por sumarte!
 
 ![][1]
 
 ## Incluyendo a la evaluación en el aprendizaje
 
-Aunque muchas veces se usa solo para validar y aprobar a los/as estudiantes, **[está comprobado que la evaluación es la tarea más significativa de los/as docentes en el aprendizaje](2)**. Es el momento en el que cada estudiante puede poner en práctica sus conocimientos y habilidades, reconocer sus errores y conocer un camino posible para mejorar.
+Aunque muchas veces se usa solo para validar y aprobar a los/as estudiantes, **[está comprobado que la evaluación es una de las instancias que más efecto tiene sobre el aprendizaje](2)**. Es el momento en el que cada estudiante puede poner en práctica sus conocimientos y habilidades, reconocer sus errores y conocer un camino posible para mejorar.
 
 Como parte de la propuesta de enseñanza online y semi-presencial de Acámica, queremos aprovechar el espacio de evaluación para ofrecer enseñanzas contextualizadas y significativas a nuestros estudiantes. Por eso, definimos una metodología de aprendizaje por proyectos, poniéndo a la práctica como eje del contenido y a los/as estudiantes en el centro de la enseñanza.
 
@@ -21,15 +27,9 @@ Si tenés alguna duda, podés encontrarnos por Slack o por mail. Siempre estamos
 [1]: https://cimg.acamica.com/acamicaplus/plus-6.jpg
 [2]: https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/hattie-ranking-teaching-effects/
 
-Para completar el curso de formación, hace las clases en el siguiente orden:
+# Índice de contenidos
 
-:small_blue_diamond:**Unidad 1: Entrando al equipo de evaluación**
-<br>
-<br>
-*Clase 1:* [Convertite en evaluador o evaluadora][1]
-<br>
-<br>
-:small_blue_diamond:**Unidad 2: Revisando el proyecto**
+:small_blue_diamond:**Unidad 1: Proceso de evaluaciones en Acámica**
 <br>
 <br>
 *Clase 1:* [Flujo de entregas y revisión de proyectos][2]
@@ -41,7 +41,7 @@ Para completar el curso de formación, hace las clases en el siguiente orden:
 *Clase 4:* [Devolución y corrección][5]
 <br>
 <br>
-:small_blue_diamond:**Unidad 3: Cómo hacer una devolución de calidad**
+:small_blue_diamond:**Unidad 2: Cómo hacer una devolución de calidad**
 <br>
 <br>
 *Clase 1:* [La importancia del feedback][6]
@@ -50,9 +50,15 @@ Para completar el curso de formación, hace las clases en el siguiente orden:
 <br>
 *Clase 3:* [Qué hace buena a una devolución][8]
 <br>
-*Clase 4:* [Actividad: corrige un código][9]
+:small_blue_diamond:**Unidad 3: Actividad práctica para ingresar al equipo**
 <br>
-*Clase 5:* [Solución: corrige un código][10]
+*Desarrollo Web Full Stack*: [Corrige un código][9]
+<br>
+*Diseño UX/UI*: [Da feedback sobre las visuales de una app web]
+<br>
+*Data Science*: [Evalúa el notebook de una regresión]
+<br>
+*Front-end Avanzado en React*: [Evalúa el desarrollo de una interfaz básica] [PRÓXIMAMENTE]
 
 
 [1]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/convertite-en-evaluador.md
