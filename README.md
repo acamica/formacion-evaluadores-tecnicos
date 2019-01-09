@@ -1,10 +1,10 @@
 # Curso de formación para evaluadores/as técnicos :rocket:
 
-Si estás leyendo esto, es porque te interesa sumarte al equipo de Evaluación Técnica de Acámica. Esta es una introducción para evaluar en todas nuestras carreras, más allá del área de tecnología específica en la que vayas a sumarte.
+Si estás leyendo esto, es porque te interesa sumarte al equipo de Evaluación Técnica de Acámica. Esta es una introducción para evaluar en todas nuestras carreras, más allá del área de tecnología específica en la que vayas a evaluar.
 
 En este repo vas a encontrar dos secciones:
-1- Evaluación en Acámica: fundamentos pedagógicos, metodología de trabajo, buenas prácticas
-2- Formas de evaluar en cada carrera: Desarrollo Full Stack, Front-end Avanzado en React, Diseño UX/UI, Data Science.
+1. Evaluación en Acámica: fundamentos pedagógicos, metodología de trabajo, buenas prácticas
+2. Formas de evaluar en cada carrera: Desarrollo Full Stack, Front-end Avanzado en React, Diseño UX/UI, Data Science.
 
 Al final de este proceso y para ingresar efectivamente como evaluador o evaluadora, vas a encontrar una actividad práctica que deberás enviar por mail al equipo de Acámica.
 
