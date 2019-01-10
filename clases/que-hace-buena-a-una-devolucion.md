@@ -2,30 +2,31 @@
 
 Los/as evaluadores nos sorprenden constantemente con la calidad de sus correcciones y con su compromiso con el aprendizaje de sus estudiantes.
 
-En el canal `#revisa-mi-revision` de Slack vas a encontrar ejemplos de correcciones que hacen otros/as miembros del equipo, donde podés ver buenas prácticas de evaluación y estilos de devoluciones.
-
 Elegimos algunas devoluciones que nos parecieron dignas de mencionar:
 
 ```
-Proyecto 2: Home Banking
+Desarrollo Web Full Stack
 ```
-
+*Proyecto 2: Home Banking*
 - Evaluadora: Alejandra Levy
-- Github gist [acá][1]
+- Link: https://gist.github.com/alelevy15/706485ac0617e72443289defa87b054e
+
+- Evaluadora: Marisol Cardozo
+- Link: https://gist.github.com/mcardozo/0ef48212cb820c8d87f113af7cc81151
 
 ```
-Proyecto 7: Encuestados
+Diseño UX/UI
 ```
 
 - Evaluadora: Sabrina Izcovich
-- Github gist [acá][2]
+- Link:
 
 ```
-Proyecto 3: Rompecabezas
+Data Science
 ```
+- Evaluador: Francisco Dorr
+- Link:
 
-- Evaluadora: Marisol Cardozo
-- Github gist [acá][3]
 
 ### Qué tienen en común las mejores evaluaciones
 
@@ -44,6 +45,3 @@ Aunque parezcan largas, todas estas evaluaciones están hechas en menos de 24 ho
 :leftwards_arrow_with_hook: Volver al [listado][4] de clases.
 
 [4]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/README.md
-[1]: https://gist.github.com/alelevy15/706485ac0617e72443289defa87b054e
-[2]: https://gist.github.com/sizcovich/bf0e26a7fd774d6506f2c001c8ee93a1
-[3]: https://gist.github.com/mcardozo/0ef48212cb820c8d87f113af7cc81151
