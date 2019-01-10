@@ -54,6 +54,10 @@ Si tenés alguna duda, podés encontrarnos por Slack o por mail. Siempre estamos
 <br>
 *Front-end Avanzado en React*: [Evalúa el desarrollo de una interfaz básica] [PRÓXIMAMENTE]
 
+### Aportá a las herramientas de evaluación
+
+Si encontrás algún error o aspecto a mejorar, hacé un Pull Request o escribinos por mail :rocket:
+
 
 [1]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/convertite-en-evaluador.md
 [2]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/flujo-de-entregas.md
