@@ -36,8 +36,6 @@ Si tenés alguna duda, podés encontrarnos por Slack o por mail. Siempre estamos
 <br>
 *Clase 2:* [Criterios de evaluación: los checklists][4]
 <br>
-*Clase 3:* [La importancia del feedback][6]
-<br>
 *Clase 2:* [Cómo hacer las mejores devoluciones][7]
 <br>
 *Clase 3:* [Qué hace buena a una devolución][8]
