@@ -7,17 +7,14 @@ Elegimos algunas devoluciones que nos parecieron dignas de mencionar:
 ```
 Desarrollo Web Full Stack
 ```
-*Proyecto 2: Home Banking*
-- Evaluadora: Alejandra Levy. Link: https://gist.github.com/alelevy15/706485ac0617e72443289defa87b054e
+- *Proyecto 2: Home Banking*. Evaluadora: Alejandra Levy. Link: https://gist.github.com/alelevy15/706485ac0617e72443289defa87b054e
 
-- Evaluadora: Marisol Cardozo. Link: https://gist.github.com/mcardozo/0ef48212cb820c8d87f113af7cc81151
+- *Proyecto 3: Rompecabezas*. Evaluadora: Marisol Cardozo. Link: https://gist.github.com/mcardozo/0ef48212cb820c8d87f113af7cc81151
 
 ```
 Diseño UX/UI
 ```
 
-- Evaluadora: Sabrina Izcovich
-- Link:
 
 ```
 Data Science
@@ -31,9 +28,9 @@ Data Science
 Fijate que en todos los casos, las devoluciones:
 
 - Hacen foco en los objetivos de aprendizaje.
-- Destacan con claridad los errores en el código o a nivel conceptual.
+- Destacan con claridad los errores en el detalle o a nivel conceptual.
 - Proponen formas de mejorar.
-- Sugieren buenas prácticas de programación.
+- Sugieren buenas prácticas de trabajo en la industria.
 - Mencionan los aspectos positivos del proyecto que están evaluando.
 
 Aunque parezcan largas, todas estas evaluaciones están hechas en menos de 24 horas por miembros del equipo de Evaluación Técnica. Con la práctica vas a poder hacer correcciones de mejor calidad y en menos tiempo.
