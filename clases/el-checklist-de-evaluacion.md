@@ -16,9 +16,10 @@ Cada proyecto tiene su propio checklist de evaluación. Podés ver todos los che
 1. Hacer una revisión superficial de la entrega del/la estudiante. Revisar si cumple las **condiciones para entregar**. Si no las cumple, calificar como `Incompleto`. Si las cumple, avanzar con la corrección.
 2. Leer uno a uno los items de la sección **condiciones para aprobar**. Anotar errores o formas de mejorar la práctica profesional del/la estudiante. Anotar también aspectos positivos y buenas soluciones para resaltar. Determinar una a una si se cumplen las condiciones de aprobación. Si no las cumple, calificar como `A revisar`. Si las cumple, calificar como `Aprobado`.
 3. Escribir la devolución final escrita. En la plataforma pedirá responder dos secciones: devolución general y sugerencias de mejora. Es importante escribir con claridad y de manera concisa. Los ejemplos y sugerencias específicas de mejora son clave para lograr transmitir en pocas lineas un feedback útil y concreto.
+<br>
+<br><br>
 
-
-:arrow-right: Avanzar a las [mejores formas de dar feedback][4]
+:arrow_right: Avanzar a las [mejores formas de dar feedback][4] <br>
 :leftwards_arrow_with_hook: Volver al [listado][3] de clases.
 
 [3]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/README.md
