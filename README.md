@@ -29,20 +29,14 @@ Si tenés alguna duda, podés encontrarnos por Slack o por mail. Siempre estamos
 
 # Índice de contenidos
 
-:small_blue_diamond:**Unidad 1: Proceso de evaluaciones en Acámica**
+:small_blue_diamond:**Proceso de evaluaciones en Acámica**
 <br>
 <br>
 *Clase 1:* [Flujo de entregas y revisión de proyectos][2]
 <br>
 *Clase 2:* [Criterios de evaluación: los checklists][4]
 <br>
-*Clase 3:* [Devolución y corrección][5]
-<br>
-<br>
-:small_blue_diamond:**Unidad 2: Cómo hacer una devolución de calidad**
-<br>
-<br>
-*Clase 1:* [La importancia del feedback][6]
+*Clase 3:* [La importancia del feedback][6]
 <br>
 *Clase 2:* [Cómo hacer las mejores devoluciones][7]
 <br>
