@@ -8,11 +8,9 @@ Elegimos algunas devoluciones que nos parecieron dignas de mencionar:
 Desarrollo Web Full Stack
 ```
 *Proyecto 2: Home Banking*
-- Evaluadora: Alejandra Levy
-- Link: https://gist.github.com/alelevy15/706485ac0617e72443289defa87b054e
+- Evaluadora: Alejandra Levy. Link: https://gist.github.com/alelevy15/706485ac0617e72443289defa87b054e
 
-- Evaluadora: Marisol Cardozo
-- Link: https://gist.github.com/mcardozo/0ef48212cb820c8d87f113af7cc81151
+- Evaluadora: Marisol Cardozo. Link: https://gist.github.com/mcardozo/0ef48212cb820c8d87f113af7cc81151
 
 ```
 Diseño UX/UI
