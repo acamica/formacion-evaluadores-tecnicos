@@ -27,6 +27,15 @@ Si tenés alguna duda, podés encontrarnos por Slack o por mail. Siempre estamos
 [1]: https://cimg.acamica.com/acamicaplus/plus-6.jpg
 [11]: https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/hattie-ranking-teaching-effects/
 
+# Cómo ingresar al equipo de evaluación técnica
+
+Es muy fácil:
+1. Leé el contenido de este curso (las cuatro clases listadas debajo).
+2. Resolvé la actividad práctica (evaluación de un proyecto real de estudiantes de Acámica) de la carrera a la que estás aplicando.
+3. Enviá el resultado de la actividad (tu evaluación) a `evaluacion@acamica.com`.
+
+Una vez enviada la actividad, recibirás feedback sobre tu evaluación. Si cumple las condiciones de calidad de evaluación de Acámica, estás adentro!
+
 # Índice de contenidos
 
 :small_blue_diamond:**Proceso de evaluaciones en Acámica**
@@ -50,17 +59,14 @@ Si tenés alguna duda, podés encontrarnos por Slack o por mail. Siempre estamos
 <br>
 *Data Science*: [Evalúa el notebook de una regresión]
 <br>
-*Front-end Avanzado en React*: [Evalúa el desarrollo de una interfaz básica] [PRÓXIMAMENTE]
+*Front-end Avanzado en React*: [PRÓXIMAMENTE]
 <br><br><br>
 
 *Este repo está hecho con :heart: por Acámica. Si encontrás algún error o aspecto a mejorar, hacé un Pull Request o escribinos por mail :rocket:*
 
 
-[1]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/convertite-en-evaluador.md
 [2]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/flujo-de-entregas.md
 [4]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/el-checklist-de-evaluacion.md
-[5]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/devolucion.md
-[6]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/importancia-del-feedback.md
 [7]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/como-hacer-las-mejores-devoluciones.md
 [8]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/que-hace-buena-a-una-devolucion.md
 [9]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/actividad-corregi-un-codigo.md
