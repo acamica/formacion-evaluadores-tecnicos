@@ -53,7 +53,7 @@ Si tenés alguna duda, podés encontrarnos por Slack o por mail. Siempre estamos
 *Data Science*: [Evalúa el notebook de una regresión]
 <br>
 *Front-end Avanzado en React*: [Evalúa el desarrollo de una interfaz básica] [PRÓXIMAMENTE]
-
+<br><br><br>
 
 *Este repo está hecho con :heart: por Acámica. Si encontrás algún error o aspecto a mejorar, hacé un Pull Request o escribinos por mail :rocket:*
 
