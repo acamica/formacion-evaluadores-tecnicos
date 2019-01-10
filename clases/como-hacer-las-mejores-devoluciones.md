@@ -6,13 +6,14 @@ Para que una devolución realmente aporte al aprendizaje, es necesario que sea c
 
 Para que una devolución sea buena, tiene que llamar la atención sobre los aspectos del código (positivos o negativos) **relevantes para lo que se busca que el/la estudiante aprenda con la actividad.** Las devoluciones escritas también corren el riesgo de ser aburridas e inútiles.
 
-_Cuando estés corrigiendo, revisá que tus correcciones se enfoquen en revisar conceptos errados o sugerir buenas prácticas._
-
 ## Criterios de evaluación
 
-Corregir un código puede tomar mucho tiempo, y nos puede ser difícil, especialmente al principio, saber cómo hacer foco en los objetivos de la evaluación.
+Corregir un producto de desarrollo o diseño puede tomar mucho tiempo, y nos puede ser difícil, especialmente al principio, saber cómo hacer foco en los objetivos de la evaluación.
 
-Para hacer más rápida la devolución escrita, te puede servir **definir de antemano algunos temas que vas a mirar en el código de los proyectos**. Por ejemplo, en cualquier código que revises, es importante que las funcionalidades estén modularizadas y que el código esté prolijo. Este va a ser un criterio de evaluación que podés ver en todos los proyectos que evalúes.
+Para hacer más rápida la devolución escrita, es imprescindible 
+[-------- ]
+
+te puede servir **definir de antemano algunos temas que vas a mirar en el código de los proyectos**. Por ejemplo, en cualquier código que revises, es importante que las funcionalidades estén modularizadas y que el código esté prolijo. Este va a ser un criterio de evaluación que podés ver en todos los proyectos que evalúes.
 
 **Hacé una lista de criterios generales para ver en los proyectos, y pensá algunos otros específicos para cada proyecto que evalúes. Con una estructura pre-definida vas a poder ahorrar tiempo y dar una devolución ordenada.**
 
