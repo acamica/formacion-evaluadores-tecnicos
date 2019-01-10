@@ -43,9 +43,6 @@ Si tenés alguna duda, podés encontrarnos por Slack o por mail. Siempre estamos
 *Clase 3:* [Qué hace buena a una devolución][8]
 <br>
 <br>
-*Tips por carrera:* [Desarrollo Full Stack], [Diseño UX/UI], [Data Science], [Front-end Avanzado en React]
-<br>
-<br>
 :small_blue_diamond:**Actividad práctica para ingresar al equipo**
 <br>
 <br>
