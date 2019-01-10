@@ -2,26 +2,25 @@
 
 Evaluar cualquier proyecto, en especial de estudiantes que están aprendiendo a programar, implica tomar muchas decisiones. Pueden existir tantos criterios de evaluación correctos como personas que evalúan. Definir criterios objetivos es una instancia necesaria para lograr un sistema de evaluación equitativo y justo.
 
-Por eso, en Acámica, creamos los checklists, que no es más que un listado de condiciones con las que se evaluará si un proyecto está listo para ser aprobado. Es decir, **un listado de variables, de condiciones, de puntos a tener en cuenta a la hora de encarar el proyecto.** De esta manera, también podremos identificar rápidamente qué le falta al trabajo, o en qué está fallando, y comunicárselo de forma sencilla y fácil al estudiante.
+Por eso en Acámica creamos los checklists, que no es más que un listado de condiciones con las que se evaluará si un proyecto está listo para ser aprobado. Es decir, **un listado de variables a tener en cuenta a la hora de encarar el proyecto.** De esta manera también podremos identificar rápidamente qué le falta al trabajo, o en qué está fallando, y comunicárselo de forma sencilla y fácil al estudiante.
 
-Optamos por usar este mecanismo porque creemos que es una herramienta dinámica, concreta, rápida y equitativa. De esta manera podemos hacer una buena y detenida evaluación, ¡en tiempo récord!
+Cada proyecto o instancia a ser evaluada tiene su propio checklist. Para guiar la evaluación de cada entrega, es necesario seguir item por item. Las condiciones del checklist están divididas en dos partes:
 
-Cada proyecto tiene su propio checklist de evaluación. Podés ver todos los checklists de la carrera de Desarrollo Web Full Stack [en este repo](https://github.com/acamica/checklists-fullstack)
+**- Condiciones para entregar:** Es para asegurarse que el/la estudiante completó el producto necesario para esa instancia. **Todas** las condiciones deben ser cumplidas para que el proyecto se considere "completo". Si no, será calificado como INCOMPLETO y no se avanzará con el resto de la corrección.
+**- Condiciones para aprobar:** Son los items que una entrega debe cumplir para considerarse "aprobada". Si UNA o más de estas condiciones no se alcanzan, el proyecto se calificará como A REVISAR.
 
-## Cómo usarlos para calificar y evaluar
+Cada proyecto tiene su propio checklist de evaluación. Podés ver todos los checklists de cada carrera [en esta carpeta de Drive](https://drive.google.com/drive/folders/0B6zpWUWglm5HREp6SjFLRVY2dFk?usp=sharing).
 
-Con el checklist en mano, está todo listo para leer el código del proyecto y analizarlo en detalle.
+## Cómo usarlos para calificar
 
-> Antes de empezar a corregir, chequeá que los archivos entregados sean los correctos antes de evaluar. Dentro del checklist, revisa la sección *"Condiciones para entregar*". Si se cumplen, puedes avanzar con la evaluación 
+1. Hacer una revisión superficial de la entrega del/la estudiante. Revisar si cumple las **condiciones para entregar**. Si no las cumple, calificar como `Incompleto`. Si las cumple, avanzar con la corrección.
+2. Leer uno a uno los items de la sección **condiciones para aprobar**. Anotar errores o formas de mejorar la práctica profesional del/la estudiante. Anotar también aspectos positivos y buenas soluciones para resaltar. Determinar una a una si se cumplen las condiciones de aprobación. Si no las cumple, calificar como `A revisar`. Si las cumple, calificar como `Aprobado`.
+3. Escribir la devolución final escrita. En la plataforma pedirá responder dos secciones: devolución general y sugerencias de mejora. Es importante escribir con claridad y de manera concisa. Los ejemplos y sugerencias específicas de mejora son clave para lograr transmitir en pocas lineas un feedback útil y concreto.
 
-Para utilizar el checklist en tu evaluación, simplemente tenés que leer cada item y marcar si el proyecto cumple o no cada condición.
 
-Para la calificación hay solo dos posibilidades:
-
-- **A revisar**: el estudiante no alcanza una o más de las condiciones mínimas de aprobación.
-- **Aprobado**: el estudiante alcanza todas las _condiciones mínimas_ de aprobación.
-
+:arrow-right: Avanzar a las [mejores formas de dar feedback][4]
 :leftwards_arrow_with_hook: Volver al [listado][3] de clases.
 
 [3]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/README.md
+[4]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/como-hacer-las-mejores-devoluciones.md
 
