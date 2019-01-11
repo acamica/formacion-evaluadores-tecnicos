@@ -10,20 +10,19 @@ Para que una devolución sea buena, tiene que llamar la atención sobre los aspe
 
 Corregir un producto de desarrollo o diseño puede tomar mucho tiempo, y nos puede ser difícil, especialmente al principio, saber cómo hacer foco en los objetivos de la evaluación.
 
-Para hacer más rápida la devolución escrita, es imprescindible 
-[-------- ]
+Antes de empezar la devolución escrita, **es imprescindible usar de guía los criterios del checklist**. Estos permiten que todas las devoluciones sean equitativas y justas para los/as estudiantes. Además ahorran tiempo, porque permiten poner foco en aspectos específicos de los proyectos y encontrar sugerencias más específicas.
 
-te puede servir **definir de antemano algunos temas que vas a mirar en el código de los proyectos**. Por ejemplo, en cualquier código que revises, es importante que las funcionalidades estén modularizadas y que el código esté prolijo. Este va a ser un criterio de evaluación que podés ver en todos los proyectos que evalúes.
+***Si encontrás problemas al usar el checklist o encontrás posibles mejoras para que sean una herramienta útil, escribinos. Las herramientas de evaluación son dinámicas y eternamente mejorables.***
 
-**Hacé una lista de criterios generales para ver en los proyectos, y pensá algunos otros específicos para cada proyecto que evalúes. Con una estructura pre-definida vas a poder ahorrar tiempo y dar una devolución ordenada.**
+Siguiendo los criterios del checklist, revisá aspectos positivos, errores y sugerencias concretas de mejora en base a buenas prácticas.
 
-**_En el checklist de evaluación vas a encontrar algunos criterios que podés usar de inspiración, pero te recomendamos revisarlos y definir los que a vos te parecen mejores._**
+Una buena forma de evaluar es hacer una primera pasada general tomando nota de los aspectos destacables, escribir un punteo de los principales puntos a tratar en la devolución, y después recién escribir la devolución final. Puntear antes de escribir es una manera de organizar la evaluación como un todo y de identificar rápidamente los aspectos a destacar.
 
 ## La escalera de retroalimentación
 
 Una herramienta que se sugiere para dar devoluciones que aporten al aprendizaje es la escalera de retroalimentación, o _ladder of feedback._ Esto no es más que una manera de estructurar el feedback para asegurarte de que motive y acompañe el crecimiento de los/as estudiantes.
 
-La escalera de retroalimentación es una herramienta pensada para ámbitos profesionales y devoluciones orales. Sin embargo, nosotros la usamos también para ordenar las devoluciones escritas. Principalmente, nos sirve para **ordenar la forma en que miramos lo que vamos a evaluar**, y nos da una guía de análisis para ordenar la escritura.
+La escalera de retroalimentación es una herramienta pensada para ámbitos profesionales y devoluciones en simultáneo. Sin embargo, nosotros la usamos también para ordenar las devoluciones escritas. Principalmente, nos sirve para **ordenar la forma en que miramos lo que vamos a evaluar**, y nos da una guía de análisis para ordenar la escritura.
 
 ![][1]
 
