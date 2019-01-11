@@ -1,6 +1,6 @@
 ## El proceso de evaluación en Acámica
 
-Cuando un/a estudiante estudia en Acámica, ya sea en modalidad online o semi-presencial, es parte de una comisión y tiene un equipo de mentores que le dan seguimiento en todo su proceso de aprendizaje. Las instancias de aprendizaje de un/a estudiante, en general, son:
+Un/a estudiante de Acámica, ya sea en modalidad online o semi-presencial, siempre forma parte de una comisión y tiene un equipo de mentores que le dan seguimiento en todo su proceso de aprendizaje. Las instancias de aprendizaje de un/a estudiante, en general, son:
 - Avanzar en contenido teórico en la plataforma de Acámica, con videos, texto y actividades interactivas
 - Clases semanales con su comisión, lideradas por los/as mentores
 - Trabajar en sus proyectos, puede ser en clase o en remoto, siguiendo las consignas existentes en la plataforma
