@@ -55,7 +55,7 @@ Una vez enviada la actividad, recibirás feedback sobre tu evaluación. Si cumpl
 <br>
 *Desarrollo Web Full Stack*: [Corrige un código][9]
 <br>
-*Diseño UX/UI*: [Da feedback sobre las visuales de una app web]
+*Diseño UX/UI*: [Da feedback sobre las visuales de una app web][1]
 <br>
 *Data Science*: [Evalúa el notebook de una regresión]
 <br>
@@ -64,7 +64,7 @@ Una vez enviada la actividad, recibirás feedback sobre tu evaluación. Si cumpl
 
 *Este repo está hecho con :heart: por Acámica. Si encontrás algún error o aspecto a mejorar, hacé un Pull Request o escribinos por mail :rocket:*
 
-
+[1]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/actividad-uxui.md
 [2]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/flujo-de-entregas.md
 [4]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/el-checklist-de-evaluacion.md
 [7]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/como-hacer-las-mejores-devoluciones.md
