@@ -29,9 +29,11 @@ Diseño UX/UI
 **Ejemplo de una buena devolución**
 - *Wireframes web*. Evaluadora: Sof Andrade. Link: https://gist.github.com/sofandrade/9c8a673521d9f2996a98d1abf00a2a46
 <br>
+
 ```
 Data Science
 ```
+
 - Introducir una devolución general a todo el archivo del/la estudiante. Enfocarse en cómo resolvió los problemas y las preguntas que le hizo a los datos.
 
 **Ejemplo de una buena devolución**
