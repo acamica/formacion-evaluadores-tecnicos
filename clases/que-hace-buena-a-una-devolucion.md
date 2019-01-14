@@ -12,16 +12,21 @@ Desarrollo Web Full Stack
 - Sugerir buenas prácticas de programación aunque la funcionalidad esté resuelta: modularización, claridad, etc.
 - Dividir la devolución en partes: puede ser por lenguaje (por archivo revisado) o  por funcionalidad resuelta.
 <br>
+
 **Ejemplos de buenas devoluciones**
-
 - *Proyecto 2: Home Banking*. Evaluadora: Alejandra Levy. Link: https://gist.github.com/alelevy15/706485ac0617e72443289defa87b054e
-
 - *Proyecto 3: Rompecabezas*. Evaluadora: Marisol Cardozo. Link: https://gist.github.com/mcardozo/0ef48212cb820c8d87f113af7cc81151
 
 ```
 Diseño UX/UI
 ```
-
+- Hacer foco en el por qué: preguntar por el proceso antes cuando algo no está claro, y cuando se da el feedback explicar también por qué
+- Ayudar estudiantes a identificar problemas en su entrega, en vez de decir que hacer. Ej: en vez de: "mové este botón al medio", preguntar el objetivo de la ubicación, sugerir ver referencias, explicar la importancia de la ubicación. En vez de "esos números son muy grandes", preguntar por que están ahi, que contenido plantean, explicar que ahora el tamaño que tienen le dan mucha jerarquía peso visual, y sugerir explorar formas de ir generando ir ritmo.
+- Comentar específicamente qué esta bien y qué esta para mejorar, comentar sobre puntos y situaciones especificas, siempre enfocándose en el problema
+- Hacer preguntas que ayuden a reflexionar
+- Al final, repasar los puntos claves a trabajar en forma de cierre
+en la devolution escrita, repasar de forma mas especifica los puntos
+al estudiante, sugerirle tomar nota para ensayar ese skill
 
 ```
 Data Science
