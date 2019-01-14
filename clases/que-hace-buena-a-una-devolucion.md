@@ -1,12 +1,19 @@
 ## Revisiones de calidad
 
-Los/as evaluadores nos sorprenden constantemente con la calidad de sus correcciones y con su compromiso con el aprendizaje de sus estudiantes.
+Las mejores evaluaciones analizan en detalle el producto de los/as estudiantes y dan feedback claro y significativo. Una buena devolución tendrá en cuenta aspectos específicos de cada área profesional.
 
-Elegimos algunas devoluciones que nos parecieron dignas de mencionar:
+Abajo compartimos puntos a tener en cuenta para cada carrera de Acámica, y ejemplos de buenas devoluciones.
 
 ```
 Desarrollo Web Full Stack
 ```
+- Empezar con una revisión general del código y corregir aspectos estructurales: funcionalidades extra, faltantes, errores de estructura de archivos. Luego, dar devolución específica de detalles de resolución
+- Dar ejemplos con código. Cuando se resalta un aspecto positivo o negativo, se puede copiar y pegar el código del/la estudiantes en la devolución. *Para ver cómo embeber código de Markdown :point_right: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet*
+- Sugerir buenas prácticas de programación aunque la funcionalidad esté resuelta: modularización, claridad, etc.
+- Dividir la devolución en partes: puede ser por lenguaje (por archivo revisado) o  por funcionalidad resuelta.
+<br>
+**Ejemplos de buenas devoluciones**
+
 - *Proyecto 2: Home Banking*. Evaluadora: Alejandra Levy. Link: https://gist.github.com/alelevy15/706485ac0617e72443289defa87b054e
 
 - *Proyecto 3: Rompecabezas*. Evaluadora: Marisol Cardozo. Link: https://gist.github.com/mcardozo/0ef48212cb820c8d87f113af7cc81151
