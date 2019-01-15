@@ -35,11 +35,16 @@ Data Science
 ```
 
 - Introducir una devolución general a todo el archivo del/la estudiante. Enfocarse en cómo resolvió los problemas y las preguntas que le hizo a los datos.
+- Los comentarios hacerlos directamente sobre el Notebook del estudiante como `markdown` o `comentarios` en el código.
+- Prestar especial atención a las técnicas utilizadas. Si bien el código puede no arrojar errores y correr correctamente, es posible que el análisis realizado no sea correcto (por ejemplo, confundir métricas)
+- Comentar y resaltar si algo está bien y proponer ideas/estrategias para seguir investigando.
+- Si algo funciona pero es mejorable, dar una explicación clara de por qué funciona y cómo puede ser mejorado.
+- Plantear preguntas sobre otras posibilidades de análisis que ayuden a la reflexión
+- Si se encuentra un error, dar una explicación clara del por qué y proponer información complementaria sobre el tema.
 
 **Ejemplo de una buena devolución**
-- Evaluador: Francisco Dorr
-- Link:
-
+- Entrega desaprobada: *Filtrado de outliers* Evaluador: Francisco Dorr. Link: https://gist.github.com/frandorr/489be011f85437a32c9f1b3ae4f3bb05
+- Entrega aprobada: *Análisis exploratorio* Evaluador: Francisco Dorr. Link: https://gist.github.com/frandorr/c282682d536fb951d411877e8cf7c0e8
 
 ### Qué tienen en común las mejores evaluaciones
 
