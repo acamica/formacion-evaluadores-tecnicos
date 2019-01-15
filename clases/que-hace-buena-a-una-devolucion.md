@@ -46,7 +46,7 @@ Data Science
 - Entrega desaprobada: *Filtrado de outliers* Evaluador: Francisco Dorr. Link: https://gist.github.com/frandorr/489be011f85437a32c9f1b3ae4f3bb05
 - Entrega aprobada: *Análisis exploratorio* Evaluador: Francisco Dorr. Link: https://gist.github.com/frandorr/c282682d536fb951d411877e8cf7c0e8
 
-### Qué tienen en común las mejores evaluaciones
+## Qué tienen en común las mejores evaluaciones
 
 Fijate que en todos los casos, las devoluciones:
 
