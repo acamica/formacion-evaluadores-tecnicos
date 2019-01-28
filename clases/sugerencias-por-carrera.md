@@ -27,7 +27,7 @@ Diseño UX/UI
 - Al final, repasar los puntos claves a trabajar en forma de cierre
 
 **Ejemplo de una buena devolución**
-- *Wireframes web*. Archivos del estudiante: https://s3.amazonaws.com/resources.acamica.com/contenidos/entrega+wireframe.pdf Evaluadora: Sof Andrade. Link a la evaluación: https://gist.github.com/sofandrade/9c8a673521d9f2996a98d1abf00a2a46
+- *Wireframes web*. <br>Archivos del estudiante: https://s3.amazonaws.com/resources.acamica.com/contenidos/entrega+wireframe.pdf <br>Evaluadora: Sof Andrade. Link a la evaluación: https://gist.github.com/sofandrade/9c8a673521d9f2996a98d1abf00a2a46
 <br>
 
 ```
