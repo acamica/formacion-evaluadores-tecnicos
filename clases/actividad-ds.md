@@ -2,11 +2,13 @@
 
 Después de ver estrategias y ejemplos de buenas correcciones, poné a prueba tus habilidades en evaluación técnica.
 
-**Analizá el código del proyecto Home Banking resuelto por un estudiante, y hacé las correcciones y devolución necesaria para _hacer de la evaluación parte del aprendizaje._**
+**Analizá el código del proyecto Feature Engineering resuelto por un estudiante, y hacé las correcciones y devolución necesaria para _hacer de la evaluación parte del aprendizaje._**
 
-[Descargá el código acá][1]
+video del contexto https://www.youtube.com/watch?v=TxQ9zsYsIt0
 
-Vas a encontrar todas consignas y checklists en esta [carpeta de Drive][2] para evaluación técnica.
+[Descargá el notebook acá][1]
+
+Vas a encontrar todas las consignas y checklists en esta [carpeta de Drive][2] para evaluación técnica.
 
 Este es un proyecto real resuelto por uno de nuestros estudiantes. Pensá la mejor devolución que podés darle para acompañarlo en sus primeros pasos en desarrollo web. _No te olvides que detrás de cada proyecto hay personas con expectativas, intereses y motivación para aprender._
 
@@ -14,6 +16,6 @@ Cuando termines, enviá tu evaluación para recibir feedback de nuestro equipo p
 
 :leftwards_arrow_with_hook: Volver al [listado][3] de clases.
 
-[1]: https://s3.amazonaws.com/resources.acamica.com/contenidos/Actividad-Homebanking.zip
-[2]: https://drive.google.com/drive/u/0/folders/1tLWCNGfM7_XPjU3E9G_5D0CpQ5WsQc08
+[1]: https://s3.amazonaws.com/resources.acamica.com/contenidos/5a61ba620040-recursos_proyecto_2.ipynb
+[2]: https://drive.google.com/drive/u/0/folders/1l_m6verNGdzbfkIA1AcsM9PXHQiXoVNM
 [3]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/README.md
