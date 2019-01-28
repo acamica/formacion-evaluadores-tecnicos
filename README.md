@@ -3,7 +3,7 @@
 Si estás leyendo esto, es porque te interesa sumarte al equipo de Evaluación Técnica de Acámica. Esta es una introducción para evaluar en todas nuestras carreras, más allá del área de tecnología específica en la que vayas a evaluar.
 
 En este repo vas a encontrar dos secciones:
-1. Evaluación en Acámica: flujo de entrega y evaluaciones, metodología de trabajo, buenas prácticas
+1. Formación a evaluadores/as: flujo de entrega y evaluaciones, metodología de trabajo, buenas prácticas
 2. Actividad de admisión al equipo: para ingresar efectivamente como evaluador o evaluadora, vas a encontrar una actividad práctica que deberás enviar por mail al equipo de Acámica.
 
 *La revisión de proyectos es nuestro pilar fundamental para formar el talento del futuro. ¡Gracias por sumarte!*
