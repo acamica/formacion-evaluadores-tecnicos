@@ -1,4 +1,4 @@
-## Ahora te toca a vos
+## Actividad de Desarrollo Web Full Stack
 
 Después de ver estrategias y ejemplos de buenas correcciones, poné a prueba tus habilidades en evaluación técnica.
 
