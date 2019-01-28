@@ -15,5 +15,5 @@ Cuando termines, enviá tu evaluación para recibir feedback de nuestro equipo p
 :leftwards_arrow_with_hook: Volver al [listado][3] de clases.
 
 [1]: https://s3.amazonaws.com/resources.acamica.com/contenidos/Actividad-Homebanking.zip
-[2]: https://drive.google.com/drive/u/0/folders/0B6zpWUWglm5HREp6SjFLRVY2dFk
+[2]: https://drive.google.com/drive/u/0/folders/1tLWCNGfM7_XPjU3E9G_5D0CpQ5WsQc08
 [3]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/README.md
