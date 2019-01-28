@@ -1,4 +1,4 @@
-## Revisiones de calidad
+## Revisiones de calidad en todas las carreras
 
 Las mejores evaluaciones analizan en detalle el producto de los/as estudiantes y dan feedback claro y significativo. Una buena devolución tendrá en cuenta aspectos específicos de cada área profesional.
 
