@@ -47,7 +47,7 @@ Una vez enviada la actividad, recibirás feedback sobre tu evaluación. Si cumpl
 <br>
 *Clase 3:* [Cómo hacer las mejores devoluciones][7]
 <br>
-*Clase 4:* [Qué hace buena a una devolución][8]
+*Clase 4:* [Sugerencias para cada carrera][8]
 <br>
 <br>
 :small_blue_diamond:**Actividad práctica para ingresar al equipo**
@@ -64,9 +64,9 @@ Una vez enviada la actividad, recibirás feedback sobre tu evaluación. Si cumpl
 
 *Este repo está hecho con :heart: por Acámica. Si encontrás algún error o aspecto a mejorar, hacé un Pull Request o escribinos por mail :rocket:*
 
-[1]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/actividad-uxui.md
+[3]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/actividad-uxui.md
 [2]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/flujo-de-entregas.md
 [4]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/el-checklist-de-evaluacion.md
 [7]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/como-hacer-las-mejores-devoluciones.md
-[8]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/que-hace-buena-a-una-devolucion.md
+[8]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/sugerencias-por-carrera.md
 [9]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/actividad-corregi-un-codigo.md
