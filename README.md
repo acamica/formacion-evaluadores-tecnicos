@@ -4,9 +4,7 @@ Si estás leyendo esto, es porque te interesa sumarte al equipo de Evaluación T
 
 En este repo vas a encontrar dos secciones:
 1. Evaluación en Acámica: flujo de entrega y evaluaciones, metodología de trabajo, buenas prácticas
-2. Sugerencias para evaluar en cada carrera: Desarrollo Full Stack, Front-end Avanzado en React, Diseño UX/UI, Data Science.
-
-Al final,para ingresar efectivamente como evaluador o evaluadora, vas a encontrar una actividad práctica que deberás enviar por mail al equipo de Acámica.
+2. Actividad de admisión al equipo: para ingresar efectivamente como evaluador o evaluadora, vas a encontrar una actividad práctica que deberás enviar por mail al equipo de Acámica.
 
 *La revisión de proyectos es nuestro pilar fundamental para formar el talento del futuro. ¡Gracias por sumarte!*
 
@@ -55,9 +53,9 @@ Una vez enviada la actividad, recibirás feedback sobre tu evaluación. Si cumpl
 <br>
 *Desarrollo Web Full Stack*: [Corrige un código][9]
 <br>
-*Diseño UX/UI*: [Da feedback sobre las visuales de una app web][1]
+*Diseño UX/UI*: [Da feedback sobre las visuales de una app web][3]
 <br>
-*Data Science*: [Evalúa el notebook de una regresión]
+*Data Science*: [Evalúa el notebook de una regresión][5]
 <br>
 *Front-end Avanzado en React*: [PRÓXIMAMENTE]
 <br><br><br>
@@ -67,6 +65,7 @@ Una vez enviada la actividad, recibirás feedback sobre tu evaluación. Si cumpl
 [3]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/actividad-uxui.md
 [2]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/flujo-de-entregas.md
 [4]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/el-checklist-de-evaluacion.md
+[5]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/actividad-ds.md
 [7]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/como-hacer-las-mejores-devoluciones.md
 [8]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/sugerencias-por-carrera.md
 [9]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/actividad-corregi-un-codigo.md
