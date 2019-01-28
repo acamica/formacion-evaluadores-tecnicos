@@ -10,7 +10,9 @@ Vas a encontrar todas consignas y checklists en esta [carpeta de Drive][2] para 
 
 Este es un proyecto real resuelto por uno de nuestros estudiantes. Pensá la mejor devolución que podés darle para acompañarlo en sus primeros pasos en desarrollo web. _No te olvides que detrás de cada proyecto hay personas con expectativas, intereses y motivación para aprender._
 
-Cuando termines, enviá tu evaluación para recibir feedback de nuestro equipo pedagógico e ingresar al equipo. Podés enviarla en cualquier formato escrito, te recomendamos escribirla en formato Markdown para empezar a acostumbrarte. **Enviá tu corrección por mail a `evaluacion@acamica.com`**.
+Cuando termines, enviá tu evaluación para recibir feedback de nuestro equipo pedagógico e ingresar al equipo. Podés enviarla en cualquier formato escrito, te recomendamos escribirla en formato Markdown para empezar a acostumbrarte. 
+
+**Enviá tu corrección por mail a `evaluacion@acamica.com`. Te responderemos por ahí para continuar tu proceso de onboarding**.
 
 :leftwards_arrow_with_hook: Volver al [listado][3] de clases.
 
