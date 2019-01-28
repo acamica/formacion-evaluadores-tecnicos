@@ -49,9 +49,12 @@ Para mí, esta es la parte más importante de la devolución. Cuando hay algo de
 Pensá qué forma de evaluar te parece la mejor y se adapta a tu manera de escribir y corregir. Como siempre, te invitamos a compartir tus opiniones, sugerencias u otros recursos que hayas encontrado en el camino.
 
 > Nota: Si querés saber más de esta herramienta y de otros recursos para promover el análisis y el pensamiento crítico, podés chequear la [web de Ron Ritchhart][2], investigador asociado del _Project Zero_ de la Universidad de Harvard.
+<br>
 
+:arrow_right: Avanzar a las [sugerencias para cada carrera][4] <br>
 :leftwards_arrow_with_hook: Volver al [listado][3] de clases.
 
 [1]: https://s-media-cache-ak0.pinimg.com/originals/f8/34/95/f83495653711def16ca24d3b6df19518.png
 [2]: http://www.ronritchhart.com/ronritchhart.com/COT_Resources.html
 [3]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/README.md
+[4]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/clases/sugerencias-por-carrera.md
