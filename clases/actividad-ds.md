@@ -4,7 +4,7 @@ Después de ver estrategias y ejemplos de buenas correcciones, poné a prueba tu
 
 **Analizá el código del proyecto Feature Engineering resuelto por un estudiante, y hacé las correcciones y devolución necesaria para _hacer de la evaluación parte del aprendizaje._**
 
-En [este video][https://www.youtube.com/watch?v=TxQ9zsYsIt0] vas a encontrar una descripción del proyecto, y en el Notebook mismo está la consigna detallada que el estudiante resolvió, junto con su solución.
+En [este video](https://www.youtube.com/watch?v=TxQ9zsYsIt0) vas a encontrar una descripción del proyecto, y en el Notebook mismo está la consigna detallada que el estudiante resolvió, junto con su solución.
 
 ***[Descargá el notebook acá][1]***
 
