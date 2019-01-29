@@ -4,11 +4,11 @@ Después de ver estrategias y ejemplos de buenas correcciones, poné a prueba tu
 
 **Analizá el código del proyecto Feature Engineering resuelto por un estudiante, y hacé las correcciones y devolución necesaria para _hacer de la evaluación parte del aprendizaje._**
 
-video del contexto https://www.youtube.com/watch?v=TxQ9zsYsIt0
+En [este video][https://www.youtube.com/watch?v=TxQ9zsYsIt0] vas a encontrar una descripción del proyecto, y en el Notebook mismo está la consigna detallada que el estudiante resolvió, junto con su solución.
 
-[Descargá el notebook acá][1]
+***[Descargá el notebook acá][1]***
 
-Vas a encontrar todas las consignas y checklists en esta [carpeta de Drive][2] para evaluación técnica.
+Por último, a los checklists los podés encontrar en esta [carpeta de Drive][2] para evaluación técnica.
 
 Este es un proyecto real resuelto por uno de nuestros estudiantes. Pensá la mejor devolución que podés darle para acompañarlo en sus primeros pasos en desarrollo web. _No te olvides que detrás de cada proyecto hay personas con expectativas, intereses y motivación para aprender._
 
