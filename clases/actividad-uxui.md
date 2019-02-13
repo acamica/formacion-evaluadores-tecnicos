@@ -16,6 +16,6 @@ Cuando termines, enviá tu evaluación para recibir feedback de nuestro equipo p
 
 :leftwards_arrow_with_hook: Volver al [listado][3] de clases.
 
-[1]: https://s3.amazonaws.com/resources.acamica.com/contenidos/wireframes+para+revisar.pdf
+[1]: https://s3.amazonaws.com/resources.acamica.com/contenidos/wireframes-melanie-actividad-evaluacion.zip
 [2]: https://drive.google.com/drive/u/0/folders/16PZTnz1LuPUXB-Fp2-PpHBZ1LP7g9-GG
 [3]: https://github.com/acamica/formacion-evaluadores-tecnicos/blob/master/README.md
